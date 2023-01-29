@@ -4,10 +4,6 @@ import main.Dice;
 import org.junit.Test;
 import static org.junit.Assert.assertTrue;
 
-/**
- * Test klasse som tester terningens funksjonalitet. om et trill hadde gitt et tall utenfor det terningen skal vise (1-6) vil testen feile.
- */
-
 public class DiceTest {
 
     @Test
